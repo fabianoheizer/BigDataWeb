@@ -63,7 +63,7 @@
 		
 		<div style="text-align: center;">
 			<h1 >
-				<font face="verdana">Escola Politécnica de Engenharia</font> <br>
+				<font face="verdana">UFRJ - Escola Politécnica de Engenharia</font> <br>
 				<font face="verdana">Trabalho de BigData</font>
 			</h1>
 			
